@@ -62,7 +62,7 @@ If you have any questions, please feel free to email me at florian.stilz@tum.de.
     pip install -r requirements.txt
 
 ```
-# StereoMIS FLex NeRF Dataset (Coming Soon)
+# StereoMIS FLex NeRF Dataset
 [StereoMIS FLex NeRF Dataset](https://www.campar.in.tum.de/public_datasets/2025_ipcai_stilz/flex_stereo_mis/README.html)
 The link to download the official dataset used in this work. Follow the instructions noted there to setup the dataset for training FLex.
 
