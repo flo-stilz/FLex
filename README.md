@@ -64,7 +64,7 @@ If you have any questions, please feel free to email me at florian.stilz@tum.de.
 ```
 # StereoMIS FLex NeRF Dataset
 [StereoMIS FLex NeRF Dataset](https://www.campar.in.tum.de/public_datasets/2025_ipcai_stilz/flex_stereo_mis/README.html)
-The link to download the official dataset used in this work. Please, make sure to create folder called "data" in the root directory and copy the dataset there.
+The link to download the official dataset used in this work. Please, make sure to create the path called "data/StereoMIS_FLex" in the root directory and copy the dataset there.
 
 # Custom Dataset Setup
 
