@@ -121,7 +121,7 @@ def create_hexd(scene='23', factor=1, flow_data=False, data_type='stereomis', st
         #basedir = '/media/storage/stilz/HexPlane/data/miti_slam_nerf/' + str(scene)
         basedir = 'data/miti_slam_nerf/'+str(scene)
     elif data_type=='stereomis':
-        basedir = 'data/StereoMIS/'+str(scene)
+        basedir = 'data/StereoMIS_FLex/'+str(scene)
     else:
         AssertionError('Unknown Data Type!')
 
